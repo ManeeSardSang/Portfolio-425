@@ -45,3 +45,4 @@ Modern & Minimalist personal portfolio website for **Nitipat Supakdee (Auto)**, 
 
 ---
 © 2026 Nitipat Supakdee. All rights reserved.
+
